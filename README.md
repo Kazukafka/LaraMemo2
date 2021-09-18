@@ -35,3 +35,4 @@ sh: 1: cross-env: not found
 https://akamist.com/blog/archives/2827
 ↑のリンクを参考に２つ目のエラー解決ができました
 ご助力ありがとうございました
+# LaraMemo2
